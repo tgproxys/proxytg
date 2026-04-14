@@ -1,4 +1,4 @@
-Прокси для телеграм бесплатно 2026 (telegram proxy MTProto). Рабочие прокси если Telegram не работает или не подключается.
+🚀 Прокси для телеграм 2026 — рабочий MTProto proxy Telegram бесплатно
 
 ![Proxy](https://img.shields.io/badge/Proxy-Active_April_2026-brightgreen)
 ![Update](https://img.shields.io/badge/Updated-2026-blue)
